@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": null,
+      "title": "March Madness 2023 bracket: NCAA Tournament picks, predictions from top college basketball model - CBS Sports",
+      "description": "SportsLine's model has nailed 18 first-round upsets by double-digit seeds and revealed its NCAA Tournament bracket 2023",
+      "url": "https://www.cbssports.com/college-basketball/news/march-madness-2023-bracket-ncaa-tournament-picks-predictions-from-top-college-basketball-model/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/12/a983e38c-0ed2-4695-b1ab-56534ef1adf8/thumbnail/1200x675/c8c26f907f3f7e1c7f0beee5133fe28d/ricky-council-arkansas.jpg",
+      "publishedAt": "2023-03-13T06:00:27Z",
+      "content": "The Alabama Crimson Tide were awarded the No. 1 overall seed in the 2023 NCAA Tournament bracket after a highly successful season. The Crimson Tide won the SEC regular-season and SEC Tournament thank… [+3852 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "Mexico dominates USA: WBC live updates and score - FOX Sports",
+      "description": "The 2023 World Baseball Classic continued on Sunday night, as Mexico took down the USA. Here are the top plays!",
+      "url": "https://www.foxsports.com/stories/mlb/mexico-usa-wbc-live-updates-and-score",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/03/1408/814/03.12.23_WBC_Live-Match-Updates_USA-vs.-Mexico_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-13T05:37:00Z",
+      "content": "The 2023 World Baseball Classic continued on Sunday night, as Mexico took down the USA in a Pool C match.\r\nMexico scored early and often in this one, leading by as many as nine runs. Prior to Sunday,… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cassandra Negley",
+      "title": "NCAA tournament bracket tips: Iowa, UConn are non-No. 1 seeds that could make run, plus trendy upset picks - Yahoo Sports",
+      "description": "The No. 1 seeds in the NCAA women’s basketball tournament have the best roads and chances at a Final Four appearance. But there are teams below them that...",
+      "url": "https://sports.yahoo.com/ncaa-tournament-bracket-tips-iowa-uconn-are-non-no-1-seeds-that-could-make-run-plus-trendy-upset-picks-031606710.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4fTJGPuDtoDRLbZImpqO3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/d0dcf410-c14c-11ed-b9f9-f7149dffe4a9",
+      "publishedAt": "2023-03-13T03:16:00Z",
+      "content": "The No. 1 seeds in the NCAA womens basketball tournament have the best roads and chances at a Final Four appearance. But there are teams below them that could still make it to Dallas.\r\nThat group is … [+6655 chars]"
+    }
+  ]
+}

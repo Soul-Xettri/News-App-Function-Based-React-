@@ -1,0 +1,8 @@
+<Route path="/business"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+<Route path="/entertainment"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+<Route path="/generalhealth"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+<Route path="/science"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+<Route path="/sports"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+<Route path="/technology"><News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/></Route>
+
+<News country="in" pageSize={20} category="sports" apiKey="a2890d391cba4b928184c821c60ce2d9"/>
